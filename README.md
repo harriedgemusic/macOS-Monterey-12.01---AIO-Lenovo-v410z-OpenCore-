@@ -1,0 +1,1 @@
+# macOS-Monterey-12.01---AIO-Lenovo-v410z-OpenCore-
